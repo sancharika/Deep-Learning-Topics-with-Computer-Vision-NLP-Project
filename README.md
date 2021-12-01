@@ -47,5 +47,5 @@ The deployed model runs a tuned version of ResNet18 and accepts data as preproce
 
 ![Penny for testing](testImages/Penny.png "Penny for testing")
 
-![Using the endpoint](Using_the_endpoint "Using the endpoint")
+![Using the endpoint](Using_the_endpoint.png "Using the endpoint")
 
